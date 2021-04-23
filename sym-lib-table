@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Sonos_Components)(type Legacy)(uri ${KIPRJMOD}/Libraries/Sonos_Components.lib)(options "")(descr ""))
+)
